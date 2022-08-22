@@ -1,4 +1,5 @@
 # PWA-Restaurant-Catalogue
+
 Dibangun dengan konsep PWA
 
 ## Prerequisite Scripts
@@ -20,11 +21,6 @@ Open [http://localhost:port](http://localhost:port) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
